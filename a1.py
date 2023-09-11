@@ -1,16 +1,4 @@
-"""Assignment 1
 
-Fill in the following function skeletons - descriptions are provided in 
-the docstring (the triple quote thing at the top of each function)
-
-Some assert statements have been provided - write more of them to test your code!
-
-The `raise NotImplementedError(...)`s are placeholders to help you not skip implementing
-a function. They should be removed and replaced with your solution.
-
-This portion of the assignment will not be graded, but this gives you some problems to 
-check, if you do not complete the generative AI portion of the assignment.
-"""
 
 from typing import List, TypeVar
 
